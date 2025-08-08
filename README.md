@@ -27,3 +27,5 @@ Compared savings vs. checking account balances across clients.
 Bank managers can track financial performance in real-time.
 Analysts can identify client segments for targeted offers.
 Advisors can monitor customer engagement for retention strategies.
+#####Here is the full dashboard pic pdf link :"https://github.com/SUBHADIPROYTHAKUR/Banking_Domain_Dashboard/blob/main/BankingEDAProject.pdf"
+
